@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crest Executive Suites - Booking Info</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        ul {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Crest Executive Suites</h1>
+    <p>Front Office Assistance - Sudarsan Murmu</p>
+</header>
+
+<section>
+    <h2>Room Details</h2>
+    <p><strong>Room Type:</strong> One Bedroom Executive Suite (700 sq. ft.)</p>
+    <p><strong>Single Occupancy:</strong> INR 4704/- (Inclusive of GST)</p>
+    <p><strong>Double Occupancy:</strong> INR 5586/- (Inclusive of GST)</p>
+
+    <p>
+        Spacious apartment with King or Twin beds, large living room, bedroom, and balcony.
+        Includes work desk, 2 LED TVs, Wi-Fi, direct dial phone, sofa, dining area,
+        electronic safe, power shower, and private kitchenette with refrigerator,
+        induction plate, microwave, kettle, and cookware.
+    </p>
+</section>
+
+<section>
+    <h2>Rate Inclusion</h2>
+    <ul>
+        <li>Complimentary breakfast at "By the Way" restaurant</li>
+        <li>Unlimited Wi-Fi and internet</li>
+        <li>1 bottle of drinking water per person per day</li>
+        <li>Health club access</li>
+        <li>Daily housekeeping (08:00 hrs to 16:00 hrs)</li>
+        <li>All applicable GST included</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Check-in Policy</h2>
+    <p><strong>Check-in:</strong> 14:00 hrs</p>
+    <p><strong>Check-out:</strong> 12:00 hrs</p>
+
+    <h3>Valid ID Proof Required:</h3>
+    <ul>
+        <li>Driving License</li>
+        <li>Passport & Visa</li>
+        <li>Aadhar Card</li>
+        <li>Voter ID</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Cancellation Policy</h2>
+    <p>
+        Free cancellation up to 48 hours before arrival.  
+        Late cancellation or no-show will be charged the full booking amount.
+    </p>
+</section>
+
+<section>
+    <h2>Contact Information</h2>
+    <p><strong>Name:</strong> Sudarsan Murmu</p>
+    <p><strong>Position:</strong> Front Office Associate</p>
+    <p><strong>Phone:</strong> +91 9749986404</p>
+    <p><strong>Email:</strong> sudarshanmurmu230@gmail.com</p>
+    <p><strong>Address:</strong> Crest Executive Suites, Gate No. 1, Prestige Shantiniketan, Tower 24, Whitefield, Bangalore – 560048, India</p>
+</section>
+
+<footer>
+    <p>Thank you for choosing Crest Executive Suites</p>
+</footer>
+
+</body>
+</html>
